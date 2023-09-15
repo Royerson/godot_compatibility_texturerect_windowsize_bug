@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4exg4thutdxo"]
+
+[ext_resource type="Texture2D" uid="uid://bsmncwd27touh" path="res://icon.svg" id="1_jiarw"]
+
+[node name="TextureRect" type="TextureRect"]
+anchors_preset = -1
+offset_right = 512.0
+offset_bottom = 512.0
+texture = ExtResource("1_jiarw")
